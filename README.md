@@ -1,0 +1,2 @@
+# myautojs
+Auto.js practice
